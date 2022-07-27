@@ -1,0 +1,50 @@
+#top {
+    margin-top: 70px;
+}
+.background {
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.1)),
+        url("https://placetech.net/wp-content/uploads/2019/10/New-York-tech-week.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header.masthead {
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.1)),
+        url("https://placetech.net/wp-content/uploads/2019/10/New-York-tech-week.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.list-inline {
+    padding-left: 0;
+    margin-left: -5px;
+    list-style: none;
+}
+.list-inline > li {
+    display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+ul.social-buttons li a {
+    font-size: 30px;
+    line-height: 60px;
+    display: block;
+    width: 60px;
+    height: 60px;
+    color: white;
+    border-radius: 100%;
+    outline: none;
+    background-color: black;
+}
+#skills {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.project-text {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+.project-title {
+    border-bottom: 3px solid gray;
+}
+.project-title:hover {
+    background-color: lightgray;
+    cursor: pointer;
+}
