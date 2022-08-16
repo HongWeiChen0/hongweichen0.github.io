@@ -60,3 +60,13 @@ h1 {
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
+.bottom {
+    border-bottom: 3px #000000 solid !important;
+    margin-bottom: 3px !important;
+}
+
+.right {
+    border-right: 3px #000000 solid !important;
+    margin-right: 3px !important;
+}
